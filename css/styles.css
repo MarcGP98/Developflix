@@ -15,4 +15,16 @@ h2 {
   margin-bottom: 10px;
 }
 
+.genero {
+  display: flex;
+  overflow: auto;
+  gap: 20px;
+}
 
+.card {
+  width: 200px;
+}
+
+.card img {
+  width: 200px;
+}
